@@ -1,6 +1,6 @@
-# [YOUR FULL NAME] | Student ID: [YOUR-STUDENT-ID]
+Ali Gohar | Student ID: BSCS 23037
 
-## PDC-Sp24-[YOUR-ID]-[YOUR-LASTNAME]
+ PDC-Sp24-23037-Ali Gohar
 
 **Course:** Parallel and Distributed Computing (PDC)  
 **Assignment:** 2 – Building Resilient Distributed Systems  
